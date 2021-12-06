@@ -40,7 +40,7 @@
 
 3. 断言某些项按预期进行
 
-   ![测试模式](Pic/测试模式.png)
+   ![测试模式](./Pic/测试模式.png)
 
 # Unity Test Runner
 
@@ -50,7 +50,7 @@ Unity Test Runner 是 NUnit单元测试框架 在Unity中的实现，可在编�
 
 通过 Window->General->Test Runner 打开页面。双击某测试单元或左上角的 Run All、Run Selected ... 即可执行测试，并输出测试结果到控制台
 
-![UTR简介](Pic/UTR简介.png)
+![UTR简介](./Pic/UTR简介.png)
 
 ## 使用流程
 
@@ -133,7 +133,7 @@ public class GameUtilsTests
 
 测试结果如下：
 
-![事例1_3](Pic/事例1_3.png)
+![事例1_3](./Pic/事例1_3.png)
 
 ### 事例2
 
@@ -262,7 +262,7 @@ public class PVPRankSortTests
 
 测试结果如图：
 
-![事例2_1](Pic/事例2_1.png)
+![事例2_1](./Pic/事例2_1.png)
 
 #  其他
 
